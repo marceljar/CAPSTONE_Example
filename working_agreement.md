@@ -1,5 +1,5 @@
 ### **1. Purpose**  
-This Working Agreement defines the expectations, collaboration guidelines, and responsibilities of the Scrum Team in a **Credit Card Fraud Detection** project.
+This Working Agreement defines the expectations, collaboration guidelines, and responsibilities of the Scrum Team in a **Faculty Website project** project.
 
 ---
 
