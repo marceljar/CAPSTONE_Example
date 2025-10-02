@@ -3,7 +3,7 @@
 | ----------- | --------- | --------- | --------------------------- |
 | Marcel Jar  | Back-End Dev | marceljar | marcel.jar@senecacollege.ca |
 | Tony Stark  | Front-End Dev |tonystark | tony.stark@senecacollege.ca |
-| Bruce Banner  | Database Specialist | brucebanner | bruce.banner1@senecacollege.ca |
+| Bruce Banner | Database Specialist | brucebanner | bruce.banner1@senecacollege.ca |
 
 ## Project Description
 
