@@ -32,4 +32,4 @@ A website designed for a faculty delivering courses at College setting will be u
 1. Website up and running from the server with no interactive tools
 2. Tool for students and groups to pick timeslots accessible for students
 3. Course information pages accessible for students
-4. Course calendars accessible for students
+4. Course calendars is now accessible for students
