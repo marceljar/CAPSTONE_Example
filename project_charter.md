@@ -18,6 +18,10 @@ Marcel is planning to develop his own website to facilitate the delivery of his 
 
 A website designed for a faculty delivering courses at College setting will be up and running prior to the beginning of the Winter term with tools for allowing students and groups to pick meeting timeslots, presenting course inforamtion, and displaying a calendar of lectures.
 
+### 2.2 Work Breakdown Structure
+
+![Work Breakdown Structure](images/WBS.png)
+
 ## 3. Milestones
 
 1. List of technological choices for front-end, back-end, database, and hosting/domain defined
