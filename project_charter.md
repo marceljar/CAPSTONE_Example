@@ -37,6 +37,11 @@ A website designed for a faculty delivering courses at College setting will be u
 | R5         | -      | D9                | Continuous integration and deployment configuration         | Marcel    | ✅ Done            | 2025-10-20             |
 
 
+### 2.4 Gantt Chart
+
+![Gantt Chart](images/GANTT_Full.png)
+
+
 ## 3. Milestones
 
 1. List of technological choices for front-end, back-end, database, and hosting/domain defined
