@@ -57,3 +57,43 @@ A website designed for a faculty delivering courses at College setting will be u
 2. Tool for students and groups to pick timeslots accessible for students
 3. Course information pages accessible for students
 4. Course calendars is now accessible for students
+
+## 5. Budget
+
+For our budget we are assuming that our sprints are two weeks long. Hence, during the cosurse of our 16 weeks project, we will have eight sprints.
+
+### Personnel
+
+| **Role** | **Daily Rate**  | **Allocation** | **Sprint Burn Rate** |
+| --------------- | --------------- | -------------- | -------------------- |
+|  Product Owner |  600 |  50% | 3,000 |
+|  Scrum Master |  500 |  50% | 2,500 |
+|  Sr. Developer |  500 |  50% | 2,500 |
+|  Jr. Developer |  400 |  50% | 4,000 |
+| Total | | | 12,000 |
+
+With eight sprints, our total cost for personnel is therefore **96,000 CADs**.
+
+### Hardware
+| **Item** | **Qtd**  | **Price** | **Total** |
+| --------------- | --------------- | -------------- | -------------------- |
+|  Thinkpad P14 |  2 | 1,200 | 2,400 |
+
+Our total hardware cost is therefore **2,400 CADs**.
+
+### Subscriptions
+| **Item** | **Qtd**  | **Monthly fee** | **Months** |   **Total**
+| --------------- | --------------- | -------------- | ------------ | ----------- |
+|  Office 365 |  2 | 300 | 4 | 2,400 |
+|  Digital Ocean (Hosting) |  1 | 10 | 4 | 40 |
+|  Total |   |  |  | 2,440 |
+
+Our total subscription cost is therefore **2,440 CADs**.
+
+### Overall cost
+
+Hence, our total cost is of **96,000 + 2,400 + 2,440 = 100,840 CADs**. With a contigency of 10%, the overall cost of the projct would be of: **110,924 CADs.**
+
+
+
+
