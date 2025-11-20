@@ -66,13 +66,10 @@ For our budget we are assuming that our sprints are two weeks long. Hence, durin
 
 | **Role** | **Daily Rate**  | **Allocation** | **Sprint Burn Rate** |
 | --------------- | --------------- | -------------- | -------------------- |
-|  Product Owner |  600 |  50% | 3,000 |
-|  Scrum Master |  500 |  50% | 2,500 |
-|  Sr. Developer |  500 |  50% | 2,500 |
-|  Jr. Developer |  400 |  50% | 4,000 |
-| Total | | | 12,000 |
+|  Faculty Member |  600 |  10% | 600 |
+| Total | | | 600 |
 
-With eight sprints, our total cost for personnel is therefore **96,000 CADs**.
+With eight sprints, our total cost for personnel is therefore **4,800 CADs**.
 
 ### Hardware
 | **Item** | **Qtd**  | **Price** | **Total** |
@@ -92,8 +89,19 @@ Our total subscription cost is therefore **2,440 CADs**.
 
 ### Overall cost
 
-Hence, our total cost is of **96,000 + 2,400 + 2,440 = 100,840 CADs**. With a contigency of 10%, the overall cost of the projct would be of: **110,924 CADs.**
+Hence, our total cost is of **4,800 + 2,400 + 2,440 = 9,640 CADs**. With a contigency of 10%, the overall cost of the projct would be of: **10,604 CADs.**
 
+## 6. Organization and Stakeholders
 
+### 6.1 Stakeholders Analysis Matrix
+![Stakeholder Analysis Matrix](images/SAM.png)
 
+### 6.2 Communications Plan
+
+| Information| Owner| Audience| Schedule | Channel |
+|----------|:-------------|:------| :-------| :-------|
+| Project Status | Faculty Member | School's Chair, Program Coordinators | Monthly | Email |
+| New Presentation Slides | Faculty Member | Current Students  | Weekly | In Person |
+| General Website Content | Faculty Member | Current Students, Other Faculty Members, Past Students, Overall Public  | Always | Via website |
+| Bugs/Typos Reporting| Current Students | Faculty Member | As needed | MS Teams or Email |
 
