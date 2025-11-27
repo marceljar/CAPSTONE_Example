@@ -105,3 +105,15 @@ Hence, our total cost is of **4,800 + 2,400 + 2,440 = 9,640 CADs**. With a conti
 | General Website Content | Faculty Member | Current Students, Other Faculty Members, Past Students, Overall Public  | Always | Via website |
 | Bugs/Typos Reporting| Current Students | Faculty Member | As needed | MS Teams or Email |
 
+
+## 7. Risks
+
+- **Server Availability**: The website might not be online during a lecture, or when students are studying for a test
+- **Database Availability**: The database is not available when students are trying to book their timeslots
+- **Ease of Use**: Students might find it difficult to navigate the website
+- **Privacy Concerns**: Student information might get disclosed
+- **Copyright Infrigement**: Information in the website might infringe upon copyright rights
+ 
+### Risk Evaluation Chart
+
+![Risk Evaluation Chart](images/REC2025.png)
